@@ -2050,7 +2050,7 @@ ul.listing-style.modify li:before {
 
 .full-width-header.header-style1.home12-modifiy .rs-header .menu-area {
   background: #ffa500 !important;
-  max-width: 1650px;
+  max-width: 1700px;
   margin: 0 auto;
 }
 .full-width-header.header-style1.home12-modifiy .rs-header .menu-area .rs-menu-area {
@@ -8850,7 +8850,7 @@ body .modal-backdrop {
   padding: 20px 14px 35px !important;
 }
 .rs-faq-part.style1 .img-part {
-  background: url(assets/images/faq/1.jpg);
+  /* background: url(assets/images/faq/1.jpg); */
   background-size: cover;
   background-position: center;
   width: 100%;
